@@ -1,0 +1,7 @@
+@score
+1
+@sizeOfSudoku
+0
+@answer
+@player
+@lockedNumbers
